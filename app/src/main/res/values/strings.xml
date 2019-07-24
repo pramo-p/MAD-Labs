@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Msg1">Hertext message 1</string>
+    <string name="Msg2">Here,I am the text msg 2</string>
+    <string name="Name">Enter Name</string>
+    <string name="Email">Enter Email</string>
+</resources>
